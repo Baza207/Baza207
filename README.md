@@ -16,10 +16,7 @@ let me = Developer(
     name: "James Barrow",
     dateOfBirth: Date(timeIntervalSince1970: 589075200),
     liveApps: [
-        App(
-            name: "Dog Bins",
-            link: "https://apps.apple.com/app/apple-store/id538357667"
-        )
+        App(name: "Dog Bins", link: "https://apps.apple.com/app/apple-store/id538357667")
     ]
 )
 
