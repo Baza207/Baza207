@@ -18,7 +18,7 @@ let me = Developer(
     liveApps: [
         App(
             name: "Dog Bins",
-            link: "https://apps.apple.com/app/apple-store/id538357667?pt=446643&ct=githubgithugithub&mt=8"
+            link: "https://apps.apple.com/app/apple-store/id538357667"
         )
     ]
 )
